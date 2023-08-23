@@ -1,6 +1,6 @@
 # Web Scraper Project
 # Name: Sudarshan Sowndiah
-# Date:09/Dec/2022
+# Dec/2022
 
 
 # This program consists of two types of data scraped from two different websites.
